@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m working on [web and backend projects](https://github.com/abhiyanpa).
-- 🌱 Currently learning **R programming** and **Cybersecurity**.
+- 🌱 Currently learning **Python, C, R programming**, and **Cybersecurity**.
 - 💬 Ask me about **Linux**, **Minecraft**, and **Backend Development**.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-linkedin-profile).
 
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/R-%23175FAA.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
