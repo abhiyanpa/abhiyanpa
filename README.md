@@ -9,10 +9,10 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m working on a [Minecraft Plugin](https://github.com/abhiyanpa/minecraft-plugin).
+- 🔭 I’m working on [web and backend projects](https://github.com/abhiyanpa).
 - 🌱 Currently learning **R programming** and **Cybersecurity**.
 - 💬 Ask me about **Linux**, **Minecraft**, and **Backend Development**.
-- 📫 Reach me on [Discord](https://discord.gg/tFqEZyWpgj) or [Instagram](https://www.instagram.com/_hashxn__/).
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-linkedin-profile).
 
 ---
 
@@ -43,8 +43,7 @@
 
 ### 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tFqEZyWpgj)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hashxn__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhiyanpa)
 
 ---
@@ -59,7 +58,6 @@
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [Minecraft Plugin](https://github.com/abhiyanpa/minecraft-plugin) | Plugin to clear player inventory | Java, Maven |
 | [QR Generator Web](https://github.com/abhiyanpa/qr-gen-web) | Web app for generating QR codes | HTML, CSS, JavaScript |
 | [Netflix Clone](https://github.com/abhiyanpa/Netflix-Clone) | Frontend clone of Netflix | React, CSS |
 
