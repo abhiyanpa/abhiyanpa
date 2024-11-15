@@ -12,7 +12,7 @@
 - 🔭 I’m working on [web and backend projects](https://github.com/abhiyanpa).
 - 🌱 Currently learning **Python, C, R programming**, and **Cybersecurity**.
 - 💬 Ask me about **Linux**, **Minecraft**, and **Backend Development**.
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-linkedin-profile).
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/abhiyanpa).
 
 ---
 
