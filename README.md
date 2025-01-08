@@ -62,7 +62,13 @@
 | --- | --- | --- |
 | [QR Generator Web](https://github.com/abhiyanpa/qr-gen-web) | Web app for generating QR codes | HTML, CSS, JavaScript |
 | [Netflix Clone](https://github.com/abhiyanpa/Netflix-Clone) | Frontend clone of Netflix | React, CSS |
-
+| [Discord-License-Manager-Bot](https://github.com/abhiyanpa/Discord-License-Manager-Bot) | Discord bot for managing licenses | Node.js, Discord.js |
+| [TPA-Plugin](https://github.com/abhiyanpa/TPA-Plugin) | Teleport request plugin for Minecraft | Java, Bukkit/Spigot |
+| [portfolio-site-react](https://github.com/abhiyanpa/portfolio-site-react) | Personal portfolio website | React, CSS |
+| [go-auth-web](https://github.com/abhiyanpa/go-auth-web) | Web application with Go authentication | Go, HTML, CSS |
+| [netflix-clone](https://github.com/abhiyanpa/netflix-clone) | Another Netflix clone | React, CSS |
+| [network-security-project](https://github.com/abhiyanpa/network-security-project) | Network security project | Python |
+| [py-gen-python](https://github.com/abhiyanpa/py-gen-python) | Python script generator | Python |
 ---
 
 ### 🏅 Profile Visitor Counter
