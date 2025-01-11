@@ -60,8 +60,8 @@
 
 | Project | Description | Technologies |
 | --- | --- | --- |
+| [MC STATUS](https://github.com/abhiyanpa/mcstatus) | A modern Minecraft server status checker built with Next.js 14. | Typescript, CSS, JavaScript |
 | [QR Generator Web](https://github.com/abhiyanpa/qr-gen-web) | Web app for generating QR codes | HTML, CSS, JavaScript |
-| [Netflix Clone](https://github.com/abhiyanpa/Netflix-Clone) | Frontend clone of Netflix | React, CSS |
 | [Discord-License-Manager-Bot](https://github.com/abhiyanpa/Discord-License-Manager-Bot) | Discord bot for managing licenses | Node.js, Discord.js |
 | [TPA-Plugin](https://github.com/abhiyanpa/TPA-Plugin) | Teleport request plugin for Minecraft | Java, Bukkit/Spigot |
 | [portfolio-site-react](https://github.com/abhiyanpa/portfolio-site-react) | Personal portfolio website | React, CSS |
