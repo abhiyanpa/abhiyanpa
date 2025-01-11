@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m working on [web and backend projects](https://github.com/abhiyanpa).
-- 🌱 Currently learning **Python, C, R programming**, and **Cybersecurity**.
+- 🌱 Currently learning **TypeScript**, **JavaScript** and **Mern**.
 - 💬 Ask me about **Linux**, **Minecraft**, and **Backend Development**.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/abhiyanpa).
 
