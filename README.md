@@ -60,6 +60,7 @@
 
 | Project | Description | Technologies |
 | --- | --- | --- |
+| [OLAM CHAT](https://github.com/abhiyanpa/olam-chat) | A modern real-time chat application with secure authentication, real-time messaging, user profiles | React, TypeScript|
 | [MC STATUS](https://github.com/abhiyanpa/mcstatus) | A modern Minecraft server status checker built with Next.js 14. | Typescript, CSS, JavaScript |
 | [QR Generator Web](https://github.com/abhiyanpa/qr-gen-web) | Web app for generating QR codes | HTML, CSS, JavaScript |
 | [Discord-License-Manager-Bot](https://github.com/abhiyanpa/Discord-License-Manager-Bot) | Discord bot for managing licenses | Node.js, Discord.js |
