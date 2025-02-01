@@ -62,13 +62,10 @@
 | --- | --- | --- |
 | [OLAM CHAT](https://github.com/abhiyanpa/olam-chat) | A modern real-time chat application with secure authentication, real-time messaging, user profiles | React, TypeScript|
 | [MC STATUS](https://github.com/abhiyanpa/mcstatus) | A modern Minecraft server status checker built with Next.js 14. | Typescript, CSS, JavaScript |
-| [QR Generator Web](https://github.com/abhiyanpa/qr-gen-web) | Web app for generating QR codes | HTML, CSS, JavaScript |
+| [CRUZE SCAN](https://github.com/abhiyanpa/cruze-scan) | Advanced online virus scanner and malware detection tool. Analyze suspicious files, domains, IPs and URLs to detect security threats. | Typescript, CSS, JavaScript |
+| [QR Generator Web](https://github.com/abhiyanpa/qr-gen-web) | Web app for generating QR codes | React,TypeScript,Tailwind CSS,Vite,VirusTotal API |
 | [Discord-License-Manager-Bot](https://github.com/abhiyanpa/Discord-License-Manager-Bot) | Discord bot for managing licenses | Node.js, Discord.js |
 | [TPA-Plugin](https://github.com/abhiyanpa/TPA-Plugin) | Teleport request plugin for Minecraft | Java, Bukkit/Spigot |
-| [portfolio-site-react](https://github.com/abhiyanpa/portfolio-site-react) | Personal portfolio website | React, CSS |
-| [go-auth-web](https://github.com/abhiyanpa/go-auth-web) | Web application with Go authentication | Go, HTML, CSS |
-| [netflix-clone](https://github.com/abhiyanpa/netflix-clone) | Another Netflix clone | React, CSS |
-| [network-security-project](https://github.com/abhiyanpa/network-security-project) | Network security project | Python |
 | [py-gen-python](https://github.com/abhiyanpa/py-gen-python) | Python script generator | Python |
 ---
 
