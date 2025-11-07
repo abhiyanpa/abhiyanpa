@@ -8,6 +8,10 @@
 
 ---
 
+### 🏅 Profile Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=abhiyanpa&label=Profile%20views&color=0e75b6&style=flat)
+
+---
 ### 🌟 About Me
 - 🔭 I’m working on [web and backend projects](https://github.com/abhiyanpa).
 - 🌱 Currently learning **TypeScript**, **JavaScript** and **Mern**.
@@ -16,10 +20,6 @@
 
 ---
 
-### 🏅 Profile Visitor Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=abhiyanpa&label=Profile%20views&color=0e75b6&style=flat)
-
----
 ### ⚡ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
