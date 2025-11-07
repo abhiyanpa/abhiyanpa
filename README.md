@@ -16,6 +16,10 @@
 
 ---
 
+### 🏅 Profile Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=abhiyanpa&label=Profile%20views&color=0e75b6&style=flat)
+
+---
 ### ⚡ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -68,10 +72,6 @@
 | [py-gen-python](https://github.com/abhiyanpa/py-gen-python) | Python script generator | Python |
 ---
 
-### 🏅 Profile Visitor Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=abhiyanpa&label=Profile%20views&color=0e75b6&style=flat)
-
----
 
 ### 💬 Fun Fact
 > "The best way to predict the future is to invent it."
@@ -84,7 +84,3 @@ Replace the links with the actual URLs for images or repositories.
 ---
 
 **Let’s connect and collaborate!**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-blueviolet?style=for-the-badge" alt="Markdown Badge"/>
-</p>
