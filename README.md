@@ -14,8 +14,7 @@
 ---
 
 ## 🌟 About Me
-- 🔐 Aspiring **Cybersecurity Specialist**
-- 🧠 Managing **Top 1 Minecraft Server in India** (500+ daily players)
+- 🔐 **Cybersecurity Specialist**
 - 💻 Backend Developer & Linux System Administrator
 - 🚀 Passionate about **automation, security tools, and scalable systems**
 - 🌱 Currently learning **TypeScript, JavaScript, MERN stack**
