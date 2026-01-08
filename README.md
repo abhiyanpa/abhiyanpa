@@ -36,39 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiyanpa&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=abhiyanpa&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyanpa&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🏆 Achievements
-- 🥇 **Top 1 Minecraft Server in India**
-- 🎮 500+ daily active players
-- 🏅 Competed in **District-Level Web Designing**
-- 🧑‍💻 Owner & Manager of multiple large-scale tech projects
-
----
-
-## 💼 Featured Projects
-
-| Project | Description | Tech |
-|-------|------------|------|
-| **OLAM CHAT** | Real-time chat app with authentication & dark mode | React, TypeScript, Supabase |
-| **CRUZE SCAN** | Online virus & malware scanner | TypeScript, VirusTotal API |
-| **MC STATUS** | Minecraft server status checker | Next.js 14, TypeScript |
-| **QR Generator Web** | QR generator with themes & formats | React, Tailwind, Flask |
-| **Discord License Manager** | Automated license system for Discord | Node.js, Discord.js |
-| **TPA Plugin** | Lightweight teleport request plugin | Java, Bukkit/Spigot |
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/abhiyanpa">
