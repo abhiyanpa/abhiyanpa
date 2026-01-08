@@ -1,49 +1,77 @@
 ## 👋 Hi there, I'm **Abhiyan P A**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Aspiring+Cybersecurity+Specialist;Minecraft+Server+Manager;Backend+Developer;Web+Designer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Specialist;Backend+Developer;Linux+System+Administrator;Web+Designer;Security+%26+Automation+Enthusiast" />
 </p>
 
----
-
-### 🏅 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiyanpa&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abhiyanpa&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔐 **Cybersecurity Specialist**
-- 💻 Backend Developer & Linux System Administrator
-- 🚀 Passionate about **automation, security tools, and scalable systems**
-- 🌱 Currently learning **TypeScript, JavaScript, MERN stack**
-- 💬 Ask me about **Linux, Minecraft, Backend, Security**
+## 🧠 About Me
+- 🔐 **Aspiring Cybersecurity Specialist**
+- 🖥️ **Backend Developer & Linux System Administrator**
+- ⚙️ Passionate about **automation, system security, and scalable architectures**
+- 🌱 Currently learning **TypeScript, JavaScript, MERN Stack**
+- 🛡️ Interested in **security research, ethical hacking, and infrastructure hardening**
+- 💬 Ask me about **Linux, Backend Systems, APIs, Security Basics**
 
 ---
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linux,python,java,c,html,css,js,ts,nodejs,mongodb,git,bash&theme=dark" />
 </p>
+
+---
+
+## 📊 GitHub Stats (Live)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhiyanpa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyanpa&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyanpa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiyanpa&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto-Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhiyanpa/abhiyanpa/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ **Note:** Enable GitHub Actions to generate the snake animation.
+
+---
+
+## 🛡️ Cybersecurity Interests
+- Network & System Security
+- Linux Hardening & Server Security
+- API Security & Authentication
+- Automation with Bash & Python
+- Ethical Hacking (Learning Phase)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/abhiyanpa">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💬 Fun Fact
-> *“The best way to predict the future is to invent it.”*
+## 💬 Quote
+> *“Security is not a product, but a process.”* 🔐
