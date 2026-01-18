@@ -46,15 +46,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto-Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhiyanpa/abhiyanpa/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ **Note:** Enable GitHub Actions to generate the snake animation.
-
----
-
 ## 🛡️ Cybersecurity Interests
 - Network & System Security
 - Linux Hardening & Server Security
